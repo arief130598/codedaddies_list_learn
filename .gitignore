@@ -1,2 +1,6 @@
 # Project exclude paths
 /venv/
+codedaddies_list/__pycache__/
+my_app/__pycache__/
+my_app/migrations/__pycache__/
+.idea
